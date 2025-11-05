@@ -11,8 +11,7 @@ Distributed web scraping + RAG pipeline
 - MongoDB (clean Q&A)
 - Chroma (embeddings)
 - Nginx (LB)
-- Prometheus + Grafana (monitoring)
-- Kubernetes manifests
+
 
 ## Setup
 1. Copy .env.example to .env and fill in secrets
