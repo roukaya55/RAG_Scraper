@@ -1,0 +1,21 @@
+# docker-compose.lb.yml
+version: "3.8"
+services:
+  api1:
+    build: { context: ., dockerfile: api/Dockerfile }
+    env_file: .env
+    depends_on: [mongo]
+  api2:
+    build: { context: ., dockerfile: api/Dockerfile }
+    env_file: .env
+    depends_on: [mongo]
+  nginx:
+    image: nginx:alpine
+    ports: ["8080:8080"]
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on: [api1, api2]
+
+  mongo:
+    image: mongo:6
+    ports: ["27017:27017"]

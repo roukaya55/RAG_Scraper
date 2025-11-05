@@ -1,0 +1,21 @@
+@"
+# RAG Scraper
+
+Distributed web scraping + RAG pipeline
+
+## Services
+- FastAPI (API + RAG)
+- RabbitMQ (task queue)
+- Workers (scrapers)
+- PostgreSQL (raw HTML)
+- MongoDB (clean Q&A)
+- Chroma (embeddings)
+- Nginx (LB)
+- Prometheus + Grafana (monitoring)
+- Kubernetes manifests
+
+## Setup
+1. Copy .env.example to .env and fill in secrets
+2. docker compose up -d
+3. uvicorn api.main:app --reload
+"@ | Set-Content README.md

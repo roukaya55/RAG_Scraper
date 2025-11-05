@@ -1,0 +1,45 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+*.sqlite3
+
+# Node / frontends (if any)
+node_modules/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build / cache
+dist/
+build/
+.cache/
+*.log
+
+# Data & artifacts
+*.db
+*.parquet
+*.csv
+*.tsv
+*.sqlite
+*.pkl
+*.onnx
+chroma_index/
+chroma_db/
+rag/chroma_db/
+data/
+tmp/
+logs/
+
+# Docker
+*.pid
+
+# Jupyter
+.ipynb_checkpoints/
+"@ | Set-Content .gitignore

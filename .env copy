@@ -1,0 +1,13 @@
+# RabbitMQ
+RABBITMQ_URL=amqp://guest:guest@localhost:5672/
+
+# PostgreSQL (raw HTML)
+PG_HOST= Host address
+PG_PORT=5432
+PG_DB=database_name
+PG_USER=user_name
+PG_PASSWORD=password
+
+# MongoDB (cleaned)
+MONGO_URI=URL to MongoDB
+MONGO_DB=database_name

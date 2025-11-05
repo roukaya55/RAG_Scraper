@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/",
+    "qa_pairs": [
+      {
+        "question": "What does the page say in part 1?",
+        "answer": "OpenAI completes its for-profit recapitalization | TechCrunch Image Credits: Kim Jae-Hwan/SOPA Images/LightRocket / Getty Images AI OpenAI completes its for-profit recapitalization Russell Brandom 7:30 AM PDT · October 28, 2025 OpenAI on Tuesday said it had completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation"
+      },
+      {
+        "question": "What does the page say in part 2?",
+        "answer": "It’s the end result of a complex legal process that had been strenuously resisted by its estranged co-founder, Elon Musk"
+      },
+      {
+        "question": "What does the page say in part 3?",
+        "answer": "Under the new structure, the non-profit OpenAI Foundation will have legal control over a public benefit corporation called OpenAI Group, which is free to raise funding or acquire companies without legal restraint"
+      },
+      {
+        "question": "What does the page say in part 4?",
+        "answer": "The Foundation will hold a significant stake in OpenAI Group, and will appoint its board of directors"
+      },
+      {
+        "question": "What does the page say in part 5?",
+        "answer": "“We believe that the world’s most powerful technology must be developed in a way that reflects the world’s collective interests,” OpenAI chairman Brett Taylor wrote in a blog post"
+      },
+      {
+        "question": "What does the page say in part 6?",
+        "answer": "“The close of our recapitalization gives us the ability to keep pushing the frontier of AI, and an updated corporate structure to ensure progress serves everyone.” Under the new structure , the OpenAI Foundation will own 26% of the for-profit, with a warrant for additional shares to be granted if the company continues to grow"
+      },
+      {
+        "question": "What does the page say in part 7?",
+        "answer": "Microsoft, an early investor in OpenAI, will hold a roughly 27% stake, valued at about $135 billion, with the remaining 47% held by investors and employees"
+      },
+      {
+        "question": "What does the page say in part 8?",
+        "answer": "According to a separate blog post by Microsoft , the deal will also extend Microsoft’s IP rights to OpenAI models through 2032"
+      },
+      {
+        "question": "What does the page say in part 9?",
+        "answer": "If OpenAI ever declares that it has achieved its long-held goal of artificial general intelligence, the deal will also require it to submit to an independent expert panel for verification"
+      },
+      {
+        "question": "What does the page say in part 10?",
+        "answer": "Prior to this recapitalization, OpenAI was operating as a non-profit under strict equity restrictions — a position that became increasingly untenable as the company’s fundraising became more ambitious"
+      }
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/OpenAI",
+    "qa_pairs": [
+      {
+        "question": "What does the page say in part 1?",
+        "answer": "OpenAI - Wikipedia Jump to content From Wikipedia, the free encyclopedia Artificial intelligence research organization Not to be confused with OpenAL , OpenAPI , or Open-source artificial intelligence"
+      },
+      {
+        "question": "What does the page say in part 2?",
+        "answer": "OpenAI, Inc"
+      },
+      {
+        "question": "What does the page say in part 3?",
+        "answer": "Company type Private Industry Artificial intelligence Founded December 8, 2015 (9 years ago) ( 2015-12-08 ) [ 1 ] Founders Sam Altman Elon Musk Ilya Sutskever Greg Brockman Trevor Blackwell Vicki Cheung Andrej Karpathy Durk Kingma John Schulman Pamela Vagata Wojciech Zaremba Headquarters 1455 3rd Street , San Francisco , California , U.S"
+      },
+      {
+        "question": "What does the page say in part 4?",
+        "answer": "[ 2 ] Key people Bret Taylor ( chairman ) Sam Altman ( CEO ) Greg Brockman ( president ) Sarah Friar ( CFO ) [ 3 ] Products OpenAI Five GPT-1 2 3 3.5 4 4o 4.5 4.1 OSS 5 DALL-E GPT Image 1 OpenAI Codex ChatGPT ChatGPT Search o1 o3 o4-mini Sora Sora 2 Operator Deep Research ChatGPT Atlas Revenue US$ 3.7 billion [ 4 ] (2024 est"
+      },
+      {
+        "question": "What does the page say in part 5?",
+        "answer": ") Net income US$ −5 billion [ 4 ] (2024 est"
+      },
+      {
+        "question": "What does the page say in part 6?",
+        "answer": ") Number of employees 3,000 (2025) [ 5 ] Website openai .com Part of a series on Artificial intelligence (AI) Major goals Artificial general intelligence Intelligent agent Recursive self-improvement Planning Computer vision General game playing Knowledge representation Natural language processing Robotics AI safety Approaches Machine learning Symbolic Deep learning Bayesian networks Evolutionary algorithms Hybrid intelligent systems Systems integration Open-source Applications Bioinformatics Deepfake Earth sciences Finance Generative AI Art Audio Music Government Healthcare Mental health Industry Software development Translation Military Physics Projects Philosophy AI alignment Artificial consciousness The bitter lesson Chinese room Friendly AI Ethics Existential risk Turing test Uncanny valley History Timeline Progress AI winter AI boom AI bubble Controversies Deepfake pornography Taylor Swift deepfake pornography controversy Google Gemini image generation controversy Pause Giant AI Experiments Removal of Sam Altman from OpenAI Statement on AI Risk Tay (chatbot) Théâtre D'opéra Spatial Voiceverse NFT plagiarism scandal Glossary Glossary v t e OpenAI, Inc"
+      },
+      {
+        "question": "What does the page say in part 7?",
+        "answer": "is an American artificial intelligence (AI) organization headquartered in San Francisco, California"
+      },
+      {
+        "question": "What does the page say in part 8?",
+        "answer": "It aims to develop \"safe and beneficial\" artificial general intelligence (AGI), which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\""
+      },
+      {
+        "question": "What does the page say in part 9?",
+        "answer": "[ 6 ] As a leading organization in the ongoing AI boom , [ 7 ] OpenAI is known for the GPT family of large language models , the DALL-E series of text-to-image models , and a text-to-video model named Sora"
+      },
+      {
+        "question": "What does the page say in part 10?",
+        "answer": "[ 8 ] [ 9 ] Its release of ChatGPT in November 2022 has been credited with catalyzing widespread interest in generative AI"
+      }
+    ]
+  }
+]
